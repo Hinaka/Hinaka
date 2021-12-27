@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<a href="https://hinaka.dev"><img src="https://github.com/Hinaka/Hinaka/blob/main/intro.svg" width="440" alt="Hinaka's Typing Intro"/></a>
 <a href="https://app.daily.dev/hinaka"><img src="https://github.com/Hinaka/Hinaka/blob/main/devcard.svg" width="400" alt="Hinaka's Dev Card"/></a>
