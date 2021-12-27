@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/hinaka"><img src="https://api.daily.dev/devcards/06f23b9d91ca49559ce9a6b6f661b7cc.png?r=7px" width="400" alt="Hinaka's Dev Card"/></a>
+<a href="https://app.daily.dev/hinaka"><img src="https://github.com/Hinaka/Hinaka/blob/main/devcard.svg" width="400" alt="Hinaka's Dev Card"/></a>
