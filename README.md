@@ -36,10 +36,11 @@
 <a href="https://github.com/Hinaka/Hinaka">
   <img align="center" alt="Hinaka's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Hinaka&show_icons=true&count_private=true&theme=react&hide_border=true" height="192px"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" alt="Hinaka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hinaka&langs_count=2&layout=compact&theme=react&hide_border=true"/>
+<a href="https://github.com/Hinaka/Hinaka">
+  <img align="center" alt="Hinaka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hinaka&langs_count=2&layout=compact&theme=react&hide_border=true" height="192px"/>
 </a>
 
-
-
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<!-- https://github.com/ryo-ma/github-profile-trophy -->
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Hinaka&theme=algolia&no-bg=true)](https://github.com/Hinaka/Hinaka)
