@@ -32,15 +32,13 @@
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black) ![GoLand](https://img.shields.io/badge/goland-143?style=for-the-badge&logo=goland&logoColor=white&color=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 ## :chart_with_upwards_trend: GitHub Stats
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<a href="https://github.com/Hinaka/Hinaka">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" alt="Hinaka's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Hinaka&show_icons=true&count_private=true&theme=react&hide_border=true" height="192px"/>
 </a>
-<a href="https://github.com/Hinaka/Hinaka">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" alt="Hinaka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hinaka&langs_count=8&layout=compact&theme=react&hide_border=true"/>
 </a>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<!-- https://github.com/ryo-ma/github-profile-trophy -->
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Hinaka&theme=algolia&no-bg=true)](https://github.com/Hinaka/Hinaka)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Hinaka&theme=algolia&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
