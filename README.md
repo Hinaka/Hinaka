@@ -12,7 +12,7 @@
 - :tea: Enjoys a freshly brewed cup of tea
 - :musical_note: Japanese vgm: Falcom, Nobuo Uematsu,...
 - :video_game: Console, handheld and mobile gacha gamer.
-  - If you play [Final Fantasy XIV](https://www.finalfantasyxiv.com/), pm me so we can play together.
+  - Currently playing [Elden Ring](https://en.bandainamcoent.eu/elden-ring/elden-ring) on PS4.
 
 ## :writing_hand: Blog & Writing
 - Apart from coding, I also maintan a blog - you can find my articles on my website at [hinaka.dev](https://hinaka.dev/) (vietnamese).
